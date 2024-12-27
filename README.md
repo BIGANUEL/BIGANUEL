@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biganuel&label=Profile%20views&color=0e75b6&style=flat" alt="biganuel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biganuel" alt="biganuel" /></a> </p>
-
 - 💬 Ask me about **Django**
 
 - 📫 How to reach me **biganuel6792@gmail.com**
@@ -11,7 +9,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amanuelwubishet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amanuelwubishet/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://www.linkedin.com/in/amanuelwubishet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.linkedin.com/in/amanuelwubishet/" height="30" width="40" /></a>
+<a href="https://instagram.com/__biganuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__biganuel" height="30" width="40" /></a>
+<a href="https://discord.gg/anuel03397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anuel03397" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
