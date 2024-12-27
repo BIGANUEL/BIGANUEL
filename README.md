@@ -1,4 +1,4 @@
-<h3 align="center">Iam an Ethiopian Backend developer</h3>
+<h3 align="center">Backend Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biganuel&label=Profile%20views&color=0e75b6&style=flat" alt="biganuel" /> </p>
 
