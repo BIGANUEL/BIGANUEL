@@ -4,12 +4,6 @@
 
 <br clear="both">
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/BIGANUEL/BIGANUEL/streak-output/streak.svg" alt="GitHub streak and total contributions" />
-</div>
-
-###
-
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
@@ -65,4 +59,10 @@
 
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://count.getloli.com/@:BIGANUEL?theme=rule34&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/BIGANUEL/BIGANUEL/streak-output/streak.svg" alt="GitHub streak and total contributions" />
 </div>
