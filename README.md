@@ -65,11 +65,5 @@
 ###
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=BIGANUEL.BIGANUEL&"  />
-</div>
-
-###
-
-<div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img data-importer="profile-views" src="https://count.getloli.com/@:BIGANUEL?theme=rule34&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
